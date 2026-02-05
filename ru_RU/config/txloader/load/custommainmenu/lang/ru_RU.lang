@@ -1,0 +1,11 @@
+menu.gtnh.singleplayer=Одиночная игра
+menu.gtnh.singleplayer.hover=Один на один с миром...
+menu.gtnh.multiplayer=Мультиплеер
+menu.gtnh.multiplayer.hover=Присоединяйся к нам
+menu.gtnh.options=Настройки
+menu.gtnh.language=Язык
+menu.gtnh.mods=Моды (#modsloaded#/#modsactive#)
+menu.gtnh.quit=Выйти
+menu.gtnh.quit.hover=Нет! Не уходи!
+menu.gtnh.mojang=Forge #forgeversion# для Minecraft #mcversion# — Авторское право Mojang AB. Запрещено распространять!
+menu.gtnh.aviators=Музыка главного меню предоставлена Aviators
